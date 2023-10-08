@@ -1,8 +1,8 @@
 Technologies Used :-
 
-HTML/CSS.
-JavaScript ES6.
-React.
+1.HTML/CSS.
+2.JavaScript ES6.
+3.React.
 
 Procedure for running the application on a local machine :-
 
